@@ -17,7 +17,7 @@ config.animation_fps = 1
 
 -- **Cursor color settings**
 config.colors = {
-	cursor_bg = '#FF681A',  -- Cursor background color
+	cursor_bg = 'F45F00',  -- Cursor background color
 	cursor_border = '#8F8F8F',  -- Cursor border color
 	cursor_fg = '#FFFFFF',  -- Cursor foreground color
 }
